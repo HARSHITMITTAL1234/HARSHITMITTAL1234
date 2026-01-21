@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 About Me:Hello! I am Harshit Mittal, a dedicated leader and skilled Full
+Stack Developer
 i am currently learning how to handle buisness through data analytics<br>
 
 
